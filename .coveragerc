@@ -3,4 +3,5 @@ omit =
     *env/*
     *__pycache__/*
     *.pytest_cache/*
+    *core/libs/exceptions.py*
     *tests/*
